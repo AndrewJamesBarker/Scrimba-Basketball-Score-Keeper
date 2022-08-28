@@ -1,11 +1,11 @@
-let homeScoreEl = document.getElementById("home-score")
-let guestScoreEl = document.getElementById("guest-score")
+const homeScoreEl = document.getElementById("home-score")
+const guestScoreEl = document.getElementById("guest-score")
 
 const homeTeamName = document.getElementById("home-team")
 const guestTeamName = document.getElementById("guest-team")
 
-let homeBox = document.getElementById("homebox")
-let guestBox = document.getElementById("guestbox")
+const homeBox = document.getElementById("homebox")
+const guestBox = document.getElementById("guestbox")
 
 
 
